@@ -1,6 +1,7 @@
 # 🏢 RUANG TENGAH STUDIO
 
-A modern React landing page built with Vite, TypeScript, and ESLint for optimal development experience.
+Welcome to Ruang Tengah, an interior design studio that blends creativity, functionality, and aesthetics to transform spaces. Our mission is to create personalized environments that are not only beautiful but also serve as the perfect backdrop for your everyday life. Whether you're designing a cozy living room or a stylish office, Ruang Tengah brings your vision to life with innovative design and attention to detail.
+This landing page, built with Vite.js, Tailwind CSS, and Framer Motion, aims to offer a visually stunning yet highly functional introduction to the Ruang Tengah interior design studio, captivating users from the first interaction to the final click.
 
 ## 👨‍💻 Creator
 
