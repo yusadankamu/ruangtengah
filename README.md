@@ -29,6 +29,7 @@ npm run preview
 - [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 - [TypeScript](https://www.typescriptlang.org/) - JavaScript with syntax for types
 - [ESLint](https://eslint.org/) - Code linting tool
+- [Framer Motion](https://motion.dev/) - A modern animation library for JavaScript and React
 
 ## 📦 Project Structure
 
